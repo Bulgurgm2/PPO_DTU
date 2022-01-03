@@ -6,4 +6,4 @@ Procgen Benchmark consists of 16 procedurally-generated environments (games) - b
 
 File demo.ipynb is a jupyter notebook that contains the code with additional comments to it. Note that the code was run at DTU HPC and running the code in colab would require to lower values of the hyperpyrameters to reduce the time needed for code execution. Otherwise, the compilation of the algorithm would most probably exceed 24 hours.
 
-
+File PPO_final2.py is the final code used to create the graphs included in the report. The code was compiled on the DTU HPC.
